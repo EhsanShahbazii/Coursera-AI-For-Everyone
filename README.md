@@ -11,3 +11,5 @@ DeepLearning.AI's expert-led educational experiences provide AI practitioners an
 ### [Ai For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
 - ### [Week 1 Introduction](Week%201%20Introduction)
+  - [1-introduction-note-fa](Week%201%20Introduction/1-introduction-note-fa.md)
+  - [1-introduction-note-en](Week%201%20Introduction/1-introduction-note-fa.md)
