@@ -13,3 +13,7 @@ DeepLearning.AI's expert-led educational experiences provide AI practitioners an
 - ### [Week 1 Introduction](Week%201%20Introduction)
   - [1-introduction-note-fa](Week%201%20Introduction/1-introduction-note-fa.md)
   - [1-introduction-note-en](Week%201%20Introduction/1-introduction-note-fa.md)
+
+## My Certificate
+![p](https://ehsan.storage.iran.liara.space/git-hub/%20Coursera-AI-For-Everyone/certificate-ai-for-everyone.png)
+### [Certificate links](https://coursera.org/share/813bd1d55b968eea9d0b391d972d1ce6)
